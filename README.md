@@ -1,4 +1,4 @@
-## Тестовое задание для подаче резюме на позицию <a href='https://hh.ru/vacancy/48973633?from=vacancy_search_list'>Junior Game Analyst</a> в компанию <a href='https://lightmap.ru/'>LIGHTMAP</a>.
+## Тестовое задание для подачи резюме на позицию <a href='https://hh.ru/vacancy/48973633?from=vacancy_search_list'>Junior Game Analyst</a> в компанию <a href='https://lightmap.ru/'>LIGHTMAP</a>.
 
 Проект состоит из следующих файлов:
 <li><a href='https://github.com/KhurazovRuslan/lightmap_test-russian-/blob/main/lightmap.ipynb'>lightmap.ipynb</a> - ноутбук с решениями заданий</li>
